@@ -1,0 +1,21 @@
+{
+    "name": "moon-dark-theme",
+    "displayName": "Moon Dark Theme",
+    "description": " Moon Dark Theme focuses on contrast and sharpness, improving word visibility in Visual Studio Code ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moon Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Moon Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
