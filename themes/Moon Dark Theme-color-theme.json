@@ -2,14 +2,19 @@
 	"name": "Moon Dark Theme",
 	"type": "dark",
 	"colors": {
+		"activityBarBadge.background": "#9711A6",
+		"activityBar.background": "#222222",
+		"activityBar.inactiveForeground": "#c7c5c5",
+		"activityBar.foreground": "#E196EE",
+		"sideBarTitle.foreground": "#F3F3F3",
+		"sideBar.background": "#222222",
+		"breadcrumb.foreground": "#F3F3F3",
 		"editor.background": "#202020",
 		"editor.foreground": "#EEFFFF",
-		"activityBarBadge.background": "#9711A6",
-		"sideBarTitle.foreground": "#F3F3F3",
-		"activityBar.background": "#222222",
-		"activityBar.inactiveForeground": "#888888",
-		"activityBar.foreground": "#E196EE",
-		"breadcrumb.foreground": "#F3F3F3",
+		"editorLineNumber.foreground": "#888888",
+		"editorLineNumber.activeForeground": "#E196EE",
+		"editor.lineHighlightBackground": "#e196ee1e",
+		"terminal.background": "#222222",
 	},
 	"tokenColors": [
 		{
@@ -20,7 +25,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#888888"
+				"foreground": "#888888",
 			}
 		},
 		{
